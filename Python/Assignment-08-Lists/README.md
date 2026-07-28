@@ -1,21 +1,16 @@
-# 📚 Assignment 08 - Lists
+# Assignment 08 - Lists
 
-## Description
+## Assignment
 
-This folder contains my Python Assignment 08 based on Lists.
-
-## Topics Covered
-
-- Creating Lists
+- List Creation
 - List Indexing
 - List Slicing
 - List Methods
+- Loop through Lists
 - Practice Programs
 
 ## Files
 
 - ASSIGNMENT 8 LIST.py
 
----
-👩‍💻 Created by Ayesha Abdullah
-SMIT - Saylani Mass IT Training
+Completed as part of my SMIT Python learning journey.
