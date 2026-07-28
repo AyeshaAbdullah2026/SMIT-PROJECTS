@@ -1,22 +1,59 @@
-# 🚀 Welcome to SMIT-PROJECT
-Hello and welcome! 👋
+# 🚀 SMIT-PROJECTS
 
-This repository contains my Python assignments and practice projects completed during my learning journey at **SMIT (Saylani Mass IT Training)**.
+Welcome to my **SMIT (Saylani Mass IT Training)** Projects Repository.
 
-## 📖 About This Repository
-**SMIT-PROJECTS** is **a collection of Python assignments demonstrating programming concepts, problem-solving, and coding best practices.**
-
-## 📚 What's Inside?
-- Python Assignments
-- Practice Exercises
-- Programming Concepts
-- Problem-Solving Tasks
-- Learning Projects
-
-## 🎯 Purpose
-The purpose of this repository is to showcase my learning progress, strengthen my Python programming skills, and maintain a well-organized collection of my work.
-
-Thank you for visiting my repository! 😊
+This repository contains my Python assignments and projects completed during my learning journey.
 
 ---
-**Author:** Ayesha Abdullah
+
+# 📂 Python
+
+## Assignments
+
+- Assignment 08 - Lists
+- Assignment 09 - Dictionary
+- Assignment 10 - Loops
+- Assignment 11 - Functions
+
+## Project
+
+- Python Number Guessing Game
+
+---
+
+# 🛠 Technologies
+
+- Python
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+# 📁 Repository Structure
+
+```
+SMIT-PROJECTS
+│
+├── Python
+│   ├── Assignment-08-Lists
+│   ├── Assignment-09-Dictionary
+│   ├── Assignment-10-Loops
+│   ├── Assignment-11-Functions
+│   ├── Python-Game
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+# 👩‍💻 Author
+
+**Ayesha Abdullah**
+
+SMIT Student | Python Learner
+
+---
+
+⭐ Thank you for visiting my repository!
