@@ -1,0 +1,12 @@
+import random
+import math
+
+# Generate a random number between 1 and 100
+number = random.randint(1, 100)
+
+# Calculate square root
+square_root = math.sqrt(number)
+
+# Display the results
+print("Random Number ===>", number)
+print("Square Root ===>", square_root)
