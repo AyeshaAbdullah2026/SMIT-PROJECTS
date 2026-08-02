@@ -1,0 +1,37 @@
+# smiley face project
+import pygame
+
+# Initialize pygame
+pygame.init()
+
+# Create window
+screen = pygame.display.set_mode((600, 400))
+pygame.display.set_caption("Click X to Close!")
+
+# Colors (RGB values)
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+
+# Fill background
+screen.fill(WHITE)
+
+# Draw a smiley face
+pygame.draw.circle(screen, (255, 255, 0), (300, 200), 100)  # Yellow face
+pygame.draw.circle(screen, (0, 0, 0), (270, 180), 10)  # Left eye
+pygame.draw.circle(screen, (0, 0, 0), (330, 180), 10)  # Right eye
+pygame.draw.arc(screen, (0, 0, 0), (250, 200, 100, 50), 3.14, 6.28, 3)  # Smile
+
+# Update display
+pygame.display.flip()
+
+# Keep window open until user closes it
+running = True
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:  # User clicked X button
+            running = False
+
+# Quit pygame
+pygame.quit()
